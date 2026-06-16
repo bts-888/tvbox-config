@@ -1,0 +1,46 @@
+{
+  "lives": [
+    {
+      "name": "🇨🇳 中国",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "🇹🇼 台湾",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "🇭🇰 香港",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/hk.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "🇺🇸 美国",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/us.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "🇯🇵 日本",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/jp.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "⚽ 体育频道",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/categories/sports.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "📰 新闻频道",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/categories/news.m3u",
+      "playerType": 1
+    }
+  ]
+}
