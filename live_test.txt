@@ -1,0 +1,6 @@
+测试频道,#genre#
+CCTV-13 (1080p),http://go.bkpcp.top/mg/cctv13
+RTHK TV 31 (1080p),https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+CGNTV Japan (1080p),https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+Bloomberg TV,https://liveproduseast.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+DaAi1 (720p),https://pulltv1.wanfudaluye.com/live/tv1.m3u8
