@@ -1,0 +1,10 @@
+{
+  "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/bts-888/tvbox-config/main/live_all.txt",
+      "playerType": 1
+    }
+  ]
+}
